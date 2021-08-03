@@ -1,0 +1,5 @@
+.idea/
+.pytest_cache/
+build/
+out/
+.DS_Store
